@@ -1,5 +1,5 @@
-# 124-Final-Project-Data-Story-Pitch
-Jane Kenny's Final Project for J124 Data Journalism at UC Berkeley
+# J124 Data Journalism Final Project: Story Pitch on U.S. Criminal Homicide Data
+By Jane Kenny
 ## Story Summary
 write paragraphs here
 ## Sourcing
@@ -84,5 +84,6 @@ __Data Analysis Process :__<br>
 3. To calculate percentage for each state, I used the equation (highest # race)/total for each state.<br>
 
 This data overwhelmingly reveals that in all states the racial demographic for victims of unsolved homicide cases is black.
-# Data Visualization
 
+### Data Visualization Link
+https://datawrapper.dwcdn.net/AOiqF/1/ 
