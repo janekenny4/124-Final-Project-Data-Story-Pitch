@@ -41,13 +41,13 @@ __Data Analysis Process :__<br>
 
 The data reveals that the top five states that have recorded the most homicides with female victims are CA with 908 homicides, TX with 802 homicides, IL with 576 homicides, PA with 437 homicides and TN with 383 homicides. Comparatively, the top five states that have recorded the most homicides with male victims are CA with 5,368 homicides, IL with 4,952 homicides, TX with 3,518 homicides, PA with 3,230 homicides and MD with 2,569 homicides. CA, TX, IL and PA are in the top five for homicides of both genders.<br> 
 
-## Question #3:
+## Question #3:Which city in the United States has the most unsolved criminal homicides?
 __Data Analysis Process :__<br>
 1. I used the dataset to create a pivot table including city and disposition as rows, then placing case ID under values, using COUNTA.<br>
 2. Referring back to the pivot table, I added a filter on the basis of disposition – removing ‘closed by arrest,’ so that only ‘closed without arrest’ and ‘open/no arrest’ appear on the table. These two types of dispositions constitute unsolved homicides.I then sorted the cities by COUNTA of case ID in descending order.<br>
 
 This pivot table reveals that Chicago, Baltimore, Houston, Detroit and Philadelphia are the top cities with the most recorded, but unsolved homicide cases in the United States. Interestingly, Los Angeles has not closed a homicide case without an arrest.<br> 
-## Question #4:
+## Question #4: Which state has recorded the most criminal homicides with black victims? What are notable observations about homicide victims by race in leading states?
 __Data Analysis Process :__<br>
 
 ## Question #5:
