@@ -47,9 +47,13 @@ __Data Analysis Process :__<br>
 2. Referring back to the pivot table, I added a filter on the basis of disposition – removing ‘closed by arrest,’ so that only ‘closed without arrest’ and ‘open/no arrest’ appear on the table. These two types of dispositions constitute unsolved homicides.I then sorted the cities by COUNTA of case ID in descending order.<br>
 
 This pivot table reveals that Chicago, Baltimore, Houston, Detroit and Philadelphia are the top cities with the most recorded, but unsolved homicide cases in the United States. Interestingly, Los Angeles has not closed a homicide case without an arrest.<br> 
-## Question #4: Which state has recorded the most criminal homicides with black victims? What are notable observations about homicide victims by race in leading states?
+## Question #4: Which state has recorded the most criminal homicides with black victims?
 __Data Analysis Process :__<br>
+1. I used the dataset to create a pivot table including victim race as a row, then placing case ID under values, using COUNTA. Then, I changed the case ID value to show as a percentage of the column, so I could more readily see the racial breakdown of the homicide data. I decided to keep ‘other’ as it likely refers to a victim’s mixed racial background.<br>
 
+2. Then, added state as a row, and filtered the victim race display to only show black victims by state. I sorted the states in descending order by COUNTA of case ID.<br>
+
+This pivot table reveals that IL significantly leads the nation in homicides with black victims.<br> 
 ## Question #5:
 __Data Analysis Process :__<br>
 
