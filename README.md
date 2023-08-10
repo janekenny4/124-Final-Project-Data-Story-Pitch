@@ -23,7 +23,8 @@ __Data Analysis Process :__<br>
 1. Using the cleaned Washington Post dataset on Homicide Data, I created a pivot table to display victim age, disposition and COUNTA of case ID.<br>
 2. Using the filter function in the pivot table, I filtered the disposition to show only ‘closed without arrest’ on the table.
 3. With victim age and disposition under ‘rows’ and case ID under ‘values,’ I sorted the victim age by COUNTA of case ID.<br>
-!['#1','Case Closed by Age'](/#1.png)
+
+!['#1','Case Closed by Age'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/fdc73d507a810bfe741f0851a2ad0f165d92a1bb/%231.png)
 
 Now, from this pivot table it is clear that the 20s-30s age range most frequently results in a ‘case closed without arrest.’ The data reveals that from 2015-2022 there have been 105 22-year-old criminal homicide victims, the most of any known age.<br>
 5. After making my initial observations, I wanted to compare the number of recorded victims aged 20-29 to the number of victims of all other ages. To do this, I began by creating a separate table with one row labeled AGE, which included 20-29, then one row labeled # of CASES, which I filled out to correspond with the COUNTA of case ID in the pivot table. I then found the sum, using the formula =sum(h2:h11) and found that there have been 879 homicides in which the victim age has been identified, and is between 20-29 years old.<br> 
