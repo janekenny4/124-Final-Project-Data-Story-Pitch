@@ -18,7 +18,8 @@ Two Additional Sources
 
 # Data Analysis
 The following are...
-Question #1: Which age group of criminal homicide victims mostly frequently results in a ‘case closed without arrest’?
+## Question #1: Which age group of criminal homicide victims mostly frequently results in a ‘case closed without arrest’?
+__Data Analysis Process :__<br>
 1. Using the cleaned Washington Post dataset on Homicide Data, I created a pivot table to display victim age, disposition and COUNTA of case ID.
 2. Using the filter function in the pivot table, I filtered the disposition to show only ‘closed without arrest’ on the table.
 3. With victim age and disposition under ‘rows’ and case ID under ‘values,’ I sorted the victim age by COUNTA of case ID.
@@ -30,16 +31,20 @@ Now, from this pivot table it is clear that the 20s-30s age range most frequentl
 
 6. Removing the 215 victims of unknown ages, I used the =sum formula to find the total number of victims outside of the 20-29 year old age range. The total is 1,828 recorded homicide victims who are not in their twenties, as compared to the 879 victims in the 20-29 year old age range.
 This data analysis reveals that about 62.5% of recorded homicide victims were outside of 20-29 years old (on either end), while about 30.1% were aged 20-29 years old and about 7.4% of recorded victims were of an unknown age. To find this, I divided the value of each age category by the total 2,922 reported homicides.  
-Question #2: Which states have recorded the most criminal homicide cases in which the victim is identified as female? Most male victims?
+## Question #2: Which states have recorded the most criminal homicide cases in which the victim is identified as female? Most male victims?
+__Data Analysis Process :__<br>
 1. I used the dataset to create a pivot table including state and sex as rows, then placing case ID under values, using COUNTA. 
 2. Referring back to the pivot table, I added a filter on the basis of sex – unknown and male, so the pivot table shows data for female victims only. I sorted the COUNTA of case ID in descending order.
 
 3. To meaningfully compare state homicide data on the basis of sex, the changed the filter to deselect female and reselected male. Once again, I sorted to descending order to show the leading states at the top of the pivot table.
 
 The data reveals that the top five states that have recorded the most homicides with female victims are CA with 908 homicides, TX with 802 homicides, IL with 576 homicides, PA with 437 homicides and TN with 383 homicides. Comparatively, the top five states that have recorded the most homicides with male victims are CA with 5,368 homicides, IL with 4,952 homicides, TX with 3,518 homicides, PA with 3,230 homicides and MD with 2,569 homicides. CA, TX, IL and PA are in the top five for homicides of both genders. 
-Question #3:
-Question #4:
-Question #5:
+## Question #3:
+__Data Analysis Process :__<br>
+## Question #4:
+__Data Analysis Process :__<br>
+## Question #5:
+__Data Analysis Process :__<br>
 
 # Data Visualization
 
