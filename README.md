@@ -35,6 +35,7 @@ Now, from this pivot table it is clear that the 20s-30s age range most frequentl
 6. Referring back to the pivot table, I added a filter on the basis of victim age – deselecting the values 20-29, to include all ages outside of this specified range.<br> 
 
 7. Removing the 215 victims of unknown ages, I used the =sum formula to find the total number of victims outside of the 20-29 year old age range. The total is 1,828 recorded homicide victims who are not in their twenties, as compared to the 879 victims in the 20-29 year old age range.<br>
+!['#3','20-29 Outside Homicides'](
 
 This data analysis reveals that about 62.5% of recorded homicide victims were outside of 20-29 years old (on either end), while about 30.1% were aged 20-29 years old and about 7.4% of recorded victims were of an unknown age. To find this, I divided the value of each age category by the total 2,922 reported homicides.<br>
  
