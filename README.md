@@ -79,11 +79,13 @@ __Data Analysis Process :__<br>
 1. Using the cleaned dataset, created a pivot table that included state and victim race as rows, then placed case ID under values as COUNTA.<br>
 2. Filtered the disposition to show the two types of unsolved cases.<br>
 
-!['#9','Unsolved By Race'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/332e14bdf98688c2130d72fa16527045d531dda8/%2310.png)
+!['#10','Unsolved By Race'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/332e14bdf98688c2130d72fa16527045d531dda8/%2310.png)
 
 3. To calculate percentage for each state, I used the equation (highest # race)/total for each state.<br>
 
 This data overwhelmingly reveals that in all states the racial demographic for victims of unsolved homicide cases is black.
 
 ### Data Visualization Link
+Utilizing data from the Washington Post, I created a line chart to illustrate the number of unsolved murders in major cities across the United States. This chart visualizes the significant disparity between various cities – and a further comparison would reveal this disproportion as backed by systemic racism.<br>
+!['#11','Data Viz']
 https://datawrapper.dwcdn.net/AOiqF/1/ 
