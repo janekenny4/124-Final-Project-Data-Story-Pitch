@@ -57,7 +57,9 @@ The data reveals that the top five states that have recorded the most homicides 
 __Data Analysis Process :__<br>
 1. I used the dataset to create a pivot table including city and disposition as rows, then placing case ID under values, using COUNTA.<br>
 2. Referring back to the pivot table, I added a filter on the basis of disposition – removing ‘closed by arrest,’ so that only ‘closed without arrest’ and ‘open/no arrest’ appear on the table. These two types of dispositions constitute unsolved homicides.I then sorted the cities by COUNTA of case ID in descending order.<br>
-!['#6','Unsolved']
+
+!['#6','Unsolved'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/05ab6ba2f9ced802acc137f6033bb05a9a6e5aaf/%236.png)
+
 This pivot table reveals that Chicago, Baltimore, Houston, Detroit and Philadelphia are the top cities with the most recorded, but unsolved homicide cases in the United States. Interestingly, Los Angeles has not closed a homicide case without an arrest.<br> 
 ## Question #4: Which state has recorded the most criminal homicides with black victims?
 __Data Analysis Process :__<br>
