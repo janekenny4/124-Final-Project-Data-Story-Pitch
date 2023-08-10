@@ -64,8 +64,11 @@ This pivot table reveals that Chicago, Baltimore, Houston, Detroit and Philadelp
 ## Question #4: Which state has recorded the most criminal homicides with black victims?
 __Data Analysis Process :__<br>
 1. I used the dataset to create a pivot table including victim race as a row, then placing case ID under values, using COUNTA. Then, I changed the case ID value to show as a percentage of the column, so I could more readily see the racial breakdown of the homicide data. I decided to keep ‘other’ as it likely refers to a victim’s mixed racial background.<br>
-!['#7','Races Number']
-2. Then, added state as a row, and filtered the victim race display to only show black victims by state. I sorted the states in descending order by COUNTA of case ID.<br>
+
+!['#7','Races Number'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/b2c0cf2703c5751e00e1491f6cf6a5b5c38cee4c/%237.png)
+
+!['#8','Races Percent']
+3. Then, added state as a row, and filtered the victim race display to only show black victims by state. I sorted the states in descending order by COUNTA of case ID.<br>
 
 This pivot table reveals that IL significantly leads the nation in homicides with black victims.<br> 
 ## Question #5:
