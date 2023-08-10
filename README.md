@@ -74,9 +74,9 @@ __Data Analysis Process :__<br>
 !['#9','Black victims by state'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/1ef6e37d7864cefb4df0a5a075a1439ad76a68b2/%239.png)
 
 This pivot table reveals that IL significantly leads the nation in homicides with black victims.<br> 
-### Question #5:
+### Question #5: Which race has the highest percentage of unsolved homicide cases in each state?
 __Data Analysis Process :__<br>
-
-
+1. Using the cleaned dataset, created a pivot table that included state and victim race as rows, then placed case ID under values as COUNTA.<br>
+2. Filtered the disposition to show the two types of unsolved cases.<br>
 # Data Visualization
 
