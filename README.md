@@ -44,7 +44,7 @@ This data analysis reveals that about 62.5% of recorded homicide victims were ou
 __Data Analysis Process :__<br>
 1. I used the dataset to create a pivot table including state and sex as rows, then placing case ID under values, using COUNTA. 
 2. Referring back to the pivot table, I added a filter on the basis of sex – unknown and male, so the pivot table shows data for female victims only. I sorted the COUNTA of case ID in descending order.<br>
-
+!['#4','Females']
 3. To meaningfully compare state homicide data on the basis of sex, the changed the filter to deselect female and reselected male. Once again, I sorted to descending order to show the leading states at the top of the pivot table.<br>
 
 The data reveals that the top five states that have recorded the most homicides with female victims are CA with 908 homicides, TX with 802 homicides, IL with 576 homicides, PA with 437 homicides and TN with 383 homicides. Comparatively, the top five states that have recorded the most homicides with male victims are CA with 5,368 homicides, IL with 4,952 homicides, TX with 3,518 homicides, PA with 3,230 homicides and MD with 2,569 homicides. CA, TX, IL and PA are in the top five for homicides of both genders.<br> 
