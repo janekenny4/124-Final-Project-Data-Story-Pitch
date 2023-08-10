@@ -78,5 +78,6 @@ This pivot table reveals that IL significantly leads the nation in homicides wit
 __Data Analysis Process :__<br>
 1. Using the cleaned dataset, created a pivot table that included state and victim race as rows, then placed case ID under values as COUNTA.<br>
 2. Filtered the disposition to show the two types of unsolved cases.<br>
+!['#9','Unsolved By Race']
 # Data Visualization
 
