@@ -1,11 +1,11 @@
 # J124 Data Journalism Final Project: Story Pitch on U.S. Criminal Homicide Data
 By Jane Kenny
 ## Story Summary
-write paragraphs here
-## Sourcing
-People
-
-Two Additional Sources
+For thousands of families, the pain of losing a loved one is magnified by the denial of justice – or even answers. Since the Washington Post began its data collection on criminal homicide cases in the United States in 2015, the publication has recorded 16,505 homicide cases left unresolved. Although impacting every major city across the nation, data shows a wide disparity in the number of unsolved cases in several primary cities in particular. Chicago and Baltimore have amassed the most unsolved homicide cases, while Tampa trails greatly behind with under 100 unsolved cases. I will explore the racial realities behind America’s homicide numbers, as the data indicates that homicides with black victims have the highest unresolvement rate in every single state. To illustrate this, I will comparatively analyze the number of unsolved murders in major cities and population demographics.
+## Sources
+### The Data
+### Potential Interview Contacts
+### Additional Sources
 
 ## Preparing for Data Analysis
 1. Source the Data
