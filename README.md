@@ -69,8 +69,10 @@ __Data Analysis Process :__<br>
 
 !['#8','Races Percent'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/8e45e9459f5153bcfb7691ab7fc6dbf144ec15f3/%238.png)
 
-3. Then, added state as a row, and filtered the victim race display to only show black victims by state. I sorted the states in descending order by COUNTA of case ID.<br>
-!['#9','Black victims by state']
+2. Then, added state as a row, and filtered the victim race display to only show black victims by state. I sorted the states in descending order by COUNTA of case ID.<br>
+
+!['#9','Black victims by state'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/1ef6e37d7864cefb4df0a5a075a1439ad76a68b2/%239.png)
+
 This pivot table reveals that IL significantly leads the nation in homicides with black victims.<br> 
 ## Question #5:
 __Data Analysis Process :__<br>
