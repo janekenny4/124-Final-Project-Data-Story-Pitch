@@ -4,20 +4,24 @@ By Jane Kenny
 For thousands of families, the pain of losing a loved one is magnified by the denial of justice – or even answers. Since the Washington Post began its data collection on criminal homicide cases in the United States in 2015, the publication has recorded 16,505 homicide cases left unresolved. Although impacting every major city across the nation, data shows a wide disparity in the number of unsolved cases in several primary cities in particular. Chicago and Baltimore have amassed the most unsolved homicide cases, while Tampa trails greatly behind with under 100 unsolved cases. I will explore the racial realities behind America’s homicide numbers, as the data indicates that homicides with black victims have the highest unresolvement rate in every single state. To illustrate this, I will comparatively analyze the number of unsolved murders in major cities and population demographics.
 ## Sources
 ### The Data
+The data used in this project comes from the Washington Post. Since 2015, the publication has collected data on over 52,000 homicides in the United States, including information on location, the victim's racial demographic and if an arrest was made. The original data set can be found [here](https://github.com/washingtonpost/data-homicides). The aggregate data set can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5P8EO1n8b11GTNaKQ8jTERns77HZEc-mP9VQkJ895jzDsmlcAED4fgDMuNmxS_-TInHceDBl65tji/pubhtml).
+
 ### Potential Interview Contacts
+1. Fred Waller – Interim Superintendent of Police at the Chicago Police Department<br>
+Appointed by the mayor of Chicago, Waller is the figure who oversees the entire police department, particularly as it pertains to legislative matters, public coverage and community strategies. As Chicago leads all other major cities in unsolved murders since 2015, I would like to talk to Waller about what the city and department are doing to bring justice to the victims’ families and what types of roadblocks have prohibited resolutions. I would also ask Waller to describe the strategies his force has amended to combat a leading homicide rate. 
+I would get in contact with Waller through the Chicago Police Department’s media team, reachable via this email social.media@chicagopolice.org. While a mobile number is not accessible, a second contact would be through the department spokesperson, who can be reached via this email RandD@chicagopolice.org.
+2. Liza Bayless – Policy Specialist for the Council on Criminal Justice<br>
+Bayless has an extensive background in working with formerly incarcerated individuals and is an expert in criminal justice police. She could offer a unique perspective on unsolved homicides in the Seattle area, as her expertise would round out the details of this story surrounding how conviction and prosecution of murderers plays out. I would ask Bayless about her experience advocating for a less-than-equitable system, and how she works to bring forth justice, as well as promote safety, in her work. 
+I can contact Bayless via email lbayless@counciloncj.org or send her a message via LinkedIn linkedin.com/in/lizabayless. 
 ### Additional Sources
-
-## Preparing for Data Analysis
-1. Source the Data
-
-2. Clean the Data
-
-3. Ask Questions
-
-4. Define Key Assumptions
+1. This chart breaks down the population in U.S. cities by racial demographic https://public.opendatasoft.com/explore/dataset/us-cities-demographics/table/ .
+- I would use this source to illustrate that the cities with higher unsolved murder rates have greater black and POC populations than cities with fewer unsolved homicides. 
+- This dataset would contribute to my reporting plan, as it helps to draw a bridge between the violent crime reported, the neglect of investigative forces and how this ties into racial systems of inequity. 
+2. The Washington Post investigative report breaks down a similar story, but from five years ago https://www.washingtonpost.com/graphics/2018/investigations/where-murders-go-unsolved/ .
+- Not only does this report include a wide variety of data visualizations, but it touches on some of the human faces behind these statistics. In this way, familiarizing myself with real stories could help me to put a real face to an otherwise hard-to-conceive story. 
 
 ## Data Analysis
-The following are...
+
 ### Question #1: Which age group of criminal homicide victims mostly frequently results in a ‘case closed without arrest’?
 __Data Analysis Process :__<br>
 1. Using the cleaned Washington Post dataset on Homicide Data, I created a pivot table to display victim age, disposition and COUNTA of case ID.<br>
@@ -87,5 +91,7 @@ This data overwhelmingly reveals that in all states the racial demographic for v
 
 ### Data Visualization Link
 Utilizing data from the Washington Post, I created a line chart to illustrate the number of unsolved murders in major cities across the United States. This chart visualizes the significant disparity between various cities – and a further comparison would reveal this disproportion as backed by systemic racism.<br>
-!['#11','Data Viz']
+
+!['#11','Data Viz'](https://github.com/janekenny4/124-Final-Project-Data-Story-Pitch/blob/40eea111fe541c69741551aa282ae71fc25b76ba/%2311.png)
+
 https://datawrapper.dwcdn.net/AOiqF/1/ 
